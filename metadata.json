@@ -1,0 +1,5 @@
+{
+  "name": "kissing",
+  "description": "Upload two photos to generate a new image where the subjects are kissing, created with AI. The app blends the two images seamlessly for a natural interaction with a soft, white background.",
+  "requestFramePermissions": []
+}
